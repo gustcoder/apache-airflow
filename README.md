@@ -17,6 +17,10 @@ O intuito é observar as similaridades e possíveis vantagens do Airflow em rela
 
 * Python 3.8.10 ou superior instalado
 
+<h1> Subindo Docker </h1>
+
+```docker-compose up -d```
+
 <h1> Executando DAGs </h1>
 
 ```Utilizar a interface Web do Airflow```
