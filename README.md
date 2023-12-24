@@ -26,3 +26,4 @@ O intuito é observar as similaridades e possíveis vantagens do Airflow em rela
 ```Utilizar a interface Web do Airflow```
 
 <b>Certificado</b>:
+https://www.udemy.com/certificate/UC-4e3f43c2-589a-4342-b2dc-41bad90e6c61/
